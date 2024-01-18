@@ -1,0 +1,79 @@
+ 
+.fa-solid fa-globe{
+    width: 500px;
+    height: 500px;
+    color: white;
+}
+body {
+    font-family: Arial;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+    
+/* Header/Blog Title */
+.header h1 {
+    text-align: left;
+    background: none;
+    color: white;
+    font-size: 50px;
+}
+    
+.header p {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+    
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background: none;
+    vertical-align: top;
+}
+    
+/* Style the topnav links */
+.topnav a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 2px;
+    margin-right: 2px;
+    font-size: 17px;
+    height: 30px;
+}
+    
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    
+}
+
+.acc th {
+    font-size: 100px;
+    color: black;
+    text-align: center;
+}
+.copy{
+    color: white;
+    text-align: end;
+}
+.foot{
+    color: rgb(148, 143, 143);
+    background-color: rgb(51, 48, 48);
+    padding: 6px 100px 10px 100px;
+    text-align: center;
+    vertical-align: baseline;
+
+}
